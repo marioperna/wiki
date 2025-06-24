@@ -1,6 +1,6 @@
 # Brand name
 
-[UNIVERSITà]()
+[UNIVERSITÀ]()
 
   * # UNIBO - PERCORSI ABILITANTI
   * [Parsons Problem](content/parsons_problem.md)
